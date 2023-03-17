@@ -8,7 +8,7 @@ O jogo permite que dois jogadores joguem uma partida de jogo da velha. O tabulei
 
 <h1>Como executar</h1>
 
-Para jogar, basta abrir o arquivo index.html em um navegador.
+Para executar o jogo da velha, basta abrir o arquivo index.html em um navegador da web.
     
 <h1>Como jogar</h1>
 
