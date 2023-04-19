@@ -1,4 +1,4 @@
-<h1>Tic Tac Toe</h1>
+<h1>Tic-Tac-Toe</h1>
 
 This repository contains the code for a simple game of tic-tac-toe written in HTML, CSS and JavaScript.
 
